@@ -1,17 +1,16 @@
 {
-  "name": "do-to-list",
+  "name": "simple-todo-spa",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^2.5.7",
+    "body-parser": "^1.17.2",
     "express": "^4.15.4",
     "morgan": "^1.8.2"
   }
